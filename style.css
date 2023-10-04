@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Poppins, sans-serif;
+    font-size: .5rem;
 }
 
 body {
@@ -32,6 +33,7 @@ body {
     margin-bottom: 40px;
     border-radius: 20px;
     box-shadow: 1px ;
+    padding: 20px;
 }
 
 .contato-info-item {
